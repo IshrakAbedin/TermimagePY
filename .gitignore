@@ -1,0 +1,6 @@
+Core/.vs/*
+driver/__pycache__/*
+driver/*.png
+driver/*.jpg
+driver/*.jpeg
+driver/*.bmp

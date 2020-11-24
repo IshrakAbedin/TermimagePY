@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  Core.cpp
+src\Core.cpp(21): warning C4309: 'initializing': truncation of constant value
+src\Core.cpp(31): warning C4018: '<': signed/unsigned mismatch
+src\Core.cpp(33): warning C4018: '<': signed/unsigned mismatch
+  dllmain.cpp
+     Creating library G:\REPOS\Termimage\Core\Core\x64\Release\bin\Core.lib and object G:\REPOS\Termimage\Core\Core\x64\Release\bin\Core.exp
+  Generating code
+g:\repos\termimage\core\core\src\core.cpp(73): warning C4715: 'ccont_IsVTAlreadyOn': not all control paths return a value
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Core.vcxproj -> G:\REPOS\Termimage\Core\Core\x64\Release\bin\Core.dll

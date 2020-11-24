@@ -1,0 +1,6 @@
+﻿  Core.cpp
+g:\repos\termimage\core\core\src\core.cpp(20): warning C4309: 'initializing': truncation of constant value
+g:\repos\termimage\core\core\src\core.cpp(30): warning C4018: '<': signed/unsigned mismatch
+g:\repos\termimage\core\core\src\core.cpp(32): warning C4018: '<': signed/unsigned mismatch
+g:\repos\termimage\core\core\src\core.cpp(68): warning C4715: 'ccont_IsVTAlreadyOn': not all control paths return a value
+  Core.vcxproj -> G:\REPOS\Termimage\Core\Core\x64\Debug\bin\Core.dll
